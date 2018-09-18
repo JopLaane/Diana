@@ -44,4 +44,4 @@ bot.on('guildRoleDelete', (guild, role) => {
     subStuff.deleteRoleOnDeletion(guild, role);
 });
 
-bot.connect();
+bot.connet();
